@@ -13,7 +13,8 @@ _**Email:** yurova.evelina@gmail.com_
 * Css - _Intermediate_
 
 ## Experience
-> I was working as Junior Developer as Freelancer on several projects. I have some experience with Web Development in Backend and Frontend as well.
+> I was working as Junior Developer on several projects. 
+> I have some experience with Web Development in Backend and Frontend as well.
 
 ## Projects
 * mochi.ge - _Working with team of 3 developers. Fixed some bugs and created few pages on admin panel_
